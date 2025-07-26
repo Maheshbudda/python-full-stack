@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- name="" is used for backend purpose to get request and post response-->
+     <!--get will show data in url-->
+     <!--post will hide the data and send to backend-->
+     <!--action works when we click submit button-->
+    <form style="border-style: solid;" action="https://www.amazon.in/" target="_blank" method="post">
+        <label name="" for="name">name:-</label>
+        <input id="name">
+        <br> <br>
+        <label name="" for="address">address:-</label>
+        <textarea id="address" rows="10"></textarea> 
+        <br><br><br>
+        <label for="email">email:-</label>
+        <input type="email" name="email" id="email">
+        <br><br><br>
+        <label name="" for="course">course:-</label>
+        
+        <select name="" id="course">
+            <option>select a course</option>
+            <option value="python">python</option>
+            <option value="java">java</option>
+            <option value="c">c</option>
+            <option value="c++">c++</option>
+            <option value="pfs">pfs</option>
+            <option value="jfs">jfs</option>
+        </select>
+        <br><br>
+        <button type="submit">submit</button>
+        <button type="reset">reset</button>
+    </form>
+</body>
+</html>
