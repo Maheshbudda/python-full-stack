@@ -7,12 +7,9 @@ day 2 :-1) elements (block line elements and inline elements)
         inline elements:-b tag not occupy the full width this is inline element
         2)formating tags (formatting tags are used to style)
 
-day 3 :-1)links (<a></a> <img></img)
+day 3 :-1)links (anchor tag a and image tag img
 
-day 6 :-1)defination tag( <dl>
-                            <dt>student</dt>
-                            <dd>mahesh</dd>)
-                        <dl>    
+day 6 :-1)defination tag(it defines the word meaning ex:-student->dt mahesh->dd (this 2 tags in dl tag)) 
         2)table
 
 day 7 :-1)table1
