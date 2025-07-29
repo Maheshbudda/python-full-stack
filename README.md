@@ -26,4 +26,10 @@ day 7 :-1)table1
         4)task3
 
 day 8 :-1)forms
+
+day 9 :-1)all_forms
+        2)semantic
+
+day 10 :-1)semantic
+         2)div&span
 </pre>
