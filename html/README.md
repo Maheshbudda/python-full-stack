@@ -27,9 +27,9 @@ day 7 :-1)table1
 
 day 8 :-1)forms
 
-day 9 :-1)all_forms
-        2)semantic
+day 9 :-1)all_forms(all form tags)
+        2)semantic(which gives meaning)
 
-day 10 :-1)semantic
+day 10 :-1)semantic (header,main,footer,)
          2)div&span
 </pre>
