@@ -8,7 +8,7 @@ day 2 :-1) elements (block line elements and inline elements)
         inline elements:-b tag not occupy the full width this is inline element
         2)formating tags (formatting tags are used to style)
 
-day 3 :-1)links (anchor tag a and image tag img
+day 3 :-1)links (anchor tag a and image tag img)
 
 day 4 :-1)picture
         2)audio
